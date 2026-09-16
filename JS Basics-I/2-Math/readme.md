@@ -1,6 +1,6 @@
 # Freelancer Rates
 
-Welcome to Freelancer Rates on Exercism's JavaScript Track.
+Welcome to Freelancer Rates
 
 ## Instructions
 
